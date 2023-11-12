@@ -1,5 +1,5 @@
 <!-- PROJECT LOGO -->
-<h1 align="center">Générateur de mot de passe</h1>
+<h1 align="center">Microsoft Landing Page</h1>
 <div align="center">
   <img src="images/password.png" alt="Logo" width="80" height="80">
 </div>
