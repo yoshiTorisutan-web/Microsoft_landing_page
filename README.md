@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <h1 align="center">Microsoft Landing Page</h1>
 <div align="center">
-  <img src="images/password.png" alt="Logo" width="80" height="80">
+  <img src="images/microsoft.png" alt="Logo" width="80" height="80">
 </div>
 
 # Présentation
