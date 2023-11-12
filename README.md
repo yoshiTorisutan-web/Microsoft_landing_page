@@ -6,6 +6,7 @@
 
 # Présentation
 Une reproduction de la page d'accueil de Microsoft réalisée en HTML, CSS et JS.
+
 Ce projet vise à recréer la page d'accueil emblématique de Microsoft, en mettant l'accent sur la conception responsive et l'interactivité. Il s'agit d'un exercice pratique pour améliorer les compétences en développement web.
 
 # Fonctionnalités
